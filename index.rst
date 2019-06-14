@@ -3,12 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Climate Interactive's Documentation!
+Climate Interactive's Documentation
 ====================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+`En-ROADS User Guide`_
+-------------------------
+
+`En-ROADS User Guide`_ contains information about how to use the En-ROADS climate solutions simulator. The major insights are discussed along with the values and data behind each of the policy sliders.
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Contents:
 
 
 
@@ -18,3 +23,7 @@ Welcome to Climate Interactive's Documentation!
 .. * :ref:`genindex`
 .. * :ref:`modindex`
 .. * :ref:`search`
+
+
+.. _`En-ROADS User Guide`: https://docs.climateinteractive.org/projects/en-roads/
+
